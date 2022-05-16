@@ -1,0 +1,67 @@
+img {
+  width: 22px;
+  height: 22px;
+}
+header {
+  text-decoration: none;
+  color: white;
+  padding: 10px 0px 0px 80px;
+  background-color: black;
+}
+.name {
+  padding-top: 20px;
+  color: rgb(9, 186, 240);
+  font-size: 25px;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+ 
+}
+li{
+  display: inline-block;
+  padding: 10px;
+}
+.searchbar{
+  height: 30px;
+}
+.item{
+  color: white;
+}
+.container{
+  text-align: center;
+  background-color: rgb(34 , 33, 33);
+  color: white;
+  height: 300px;
+  width:100%;
+  
+}
+.title{
+ font-size: 50px;
+ color: rgb(9,186,240);
+}
+.text{
+  font-size: 20px;
+}
+.button{
+  padding: 10px;
+  background-color: rgb(28,161,223);
+  border-radius: 3px;
+  border-color:rgb(28,161,223) ;
+}
+a{
+  padding-left: 10px;
+}
+.header{
+  height: 100px;
+  padding-top: 50px;
+  font-size: 24px;
+  color: grey;
+}
+.box{
+  display: inline-block;
+  padding: 15px 100px 0px 20px;
+}
+.boxes{
+     width: 300px;
+}
